@@ -1,0 +1,4 @@
+"sample_size","n_sim","n_valid","n_error","variance_reject_n","variance_reject_rate","variance_not_reject_n","variance_not_reject_rate","M_1_wins_n","M_1_wins_rate","M_2_wins_n","M_2_wins_rate","M_1_eq_M_2_n","M_1_eq_M_2_rate","indistinguishable_n","indistinguishable_rate"
+1000,200,200,0,199,0.995,1,0.005,193,0.965,0,0,6,0.03,1,0.005
+2000,200,200,0,200,1,0,0,200,1,0,0,0,0,0,0
+5000,200,200,0,200,1,0,0,200,1,0,0,0,0,0,0
